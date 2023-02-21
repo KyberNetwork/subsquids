@@ -1,0 +1,6 @@
+type KncHolder @entity {
+  id: ID!
+  amount: BigInt!
+  block: Int!
+}
+
